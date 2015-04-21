@@ -11,3 +11,16 @@ http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/
 opinion mining with deep recurrent nets
 http://www.cs.cornell.edu/~oirsoy/drnt.htm
 http://people.cs.umass.edu/~vdang/ranklib.html
+
+
+Wikipedia: 
+1) List of Controversial topics:
+	http://en.wikipedia.org/wiki/Wikipedia:List_of_controversial_issues
+
+2) Category of Controversial topics:
+	 http://en.wikipedia.org/wiki/Category:Wikipedia_controversial_topics
+
+Dataset on contoversial topics:
+ 	https://www.research.ibm.com/haifa/dept/vst/papers/2014_6_ACL_ArgumentationWorkshop_ibmClaimEvidenceDataPaper.pdf
+
+Note: Paper says that the dataset is available on request. Sent an email to authors requesting the access to dataset.	
