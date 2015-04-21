@@ -5,6 +5,9 @@ https://nlds.soe.ucsc.edu/iac
 http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/
 
 
+"Identifying Controversial Issues and Their Sub-topics in News Articles" uses MPQA corpus for controversy detection in topics, not for evaluation, mostly considering all topics controversial 
+
+
 opinion mining with deep recurrent nets
 http://www.cs.cornell.edu/~oirsoy/drnt.htm
 http://people.cs.umass.edu/~vdang/ranklib.html
