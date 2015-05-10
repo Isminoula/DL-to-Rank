@@ -1,0 +1,42 @@
+Abortion, 52
+Animal rights,86
+Border Fence,54
+Civil Unions,75
+Environmental Protection, 89
+European Union,63
+Federal Reserve,42
+Free Trade,84
+Gold Standard,58
+Homeschooling,70
+Medical Marijuana, 78
+Minimum Wage, 76
+Progressive Tax, 49
+Redistribution, 57
+Social Programs, 77
+Socialism, 41
+Term Limits, 81
+United Nations, 77
+War on Terror, 48
+Affirmative Action, 40
+Barack Obama, 42
+Capitalism, 70
+Death Penalty, 51
+Electoral College, 35
+Estate Tax, 36
+Euthanasia, 68
+Flat Tax, 45
+Gay Marriage, 29
+Globalization, 69
+Gun Rights, 68
+Labor Union, 70
+Military Intervention, 42
+National Health Care, 67
+Occupy Movement, 58
+Racial Profiling, 30
+Social Security, 77
+Torture, 19
+War in Afghanistan, 30
+Welfare, 36
+
+
+
