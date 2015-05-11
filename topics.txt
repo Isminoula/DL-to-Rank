@@ -30,7 +30,7 @@ Globalization,==>5, 69
 Gun Rights, ==>5, 68
 Labor Union,==>5, 70
 Military Intervention, =>6, 42
-National Health Care, 67
+National Health Care =>6, 67
 Occupy Movement==>6, 58
 Racial Profiling, 30
 Social Security, 77
