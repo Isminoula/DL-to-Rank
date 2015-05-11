@@ -22,7 +22,7 @@ Barack Obama, 42
 Capitalism, 70
 Death Penalty, 51
 Electoral College, 35
-Estate Tax, 36
+Estate Tax,=>5, 36
 Euthanasia,==>7, 68
 Flat Tax,==>5, 45
 Gay Marriage,==>5, 29
@@ -31,10 +31,10 @@ Gun Rights, ==>5, 68
 Labor Union,==>5, 70
 Military Intervention, =>6, 42
 National Health Care, 67
-Occupy Movement, 58
+Occupy Movement==>6, 58
 Racial Profiling, 30
 Social Security, 77
-Torture, 19
+Torture, ==>5, 19
 War in Afghanistan ==>6, 30
 Welfare, 36
 
